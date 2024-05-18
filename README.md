@@ -1,4 +1,4 @@
-# GenAI20240518 生成式AI駭客營
+# GenAI20240518 生成式AI駭客營 
 - 講師: 崑山科技大學 資工系  雲端運算技資通安全研發中心 [曾龍](https://github.com/8wingflying/MyFirstHackingDay/blob/main/DRAGON.md) 主任
   - GenAI 生成式人工智慧 研發中心
   - 駭客攻防實驗室
